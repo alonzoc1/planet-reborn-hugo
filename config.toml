@@ -1,0 +1,53 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Defacto Matter'
+theme = 'hugo-coder'
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Defacto Matter"
+  info = "Making spectacular games since 2022"
+  description = "Defacto Matter studio website"
+  keywords = "blog,gaming,personal,developer,gamedev"
+  avatarurl = "images/avatar.webp"
+  #gravatar = "john.doe@example.com"
+
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  #customCSS = ["css/custom.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/alonzoc1/planet-reborn-hugo"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
