@@ -5,6 +5,25 @@
     <link>https://alonzoc1.github.io/planet-reborn-hugo/categories/</link>
     <description>Recent content in Categories on Defacto Matter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://alonzoc1.github.io/planet-reborn-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alonzoc1.github.io/planet-reborn-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syntax</title>
+      <link>https://alonzoc1.github.io/planet-reborn-hugo/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alonzoc1.github.io/planet-reborn-hugo/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://alonzoc1.github.io/planet-reborn-hugo/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alonzoc1.github.io/planet-reborn-hugo/categories/themes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
