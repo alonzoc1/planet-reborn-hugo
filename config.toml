@@ -12,11 +12,10 @@ pygmentscodefencesguesssyntax = true
   info = "Making spectacular games since 2022"
   description = "Defacto Matter studio website"
   keywords = "blog,gaming,personal,developer,gamedev"
-  avatarurl = "./images/avatar.webp"
-  #gravatar = "john.doe@example.com"
+  avatarurl = "images/avatar.webp"
 
-  #favicon_32 = "./images/favicon-32x32.png"
-  #favicon_16 = "./images/favicon-16x16.png"
+  #favicon_32 = "images/favicon-32x32.png"
+  #favicon_16 = "images/favicon-16x16.png"
 
   since = 2022
 
