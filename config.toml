@@ -12,11 +12,11 @@ pygmentscodefencesguesssyntax = true
   info = "Making spectacular games since 2022"
   description = "Defacto Matter studio website"
   keywords = "blog,gaming,personal,developer,gamedev"
-  avatarurl = "images/avatar.webp"
+  avatarurl = "planet-reborn-hugo/images/avatar.webp"
   #gravatar = "john.doe@example.com"
 
-  #favicon_32 = "/img/favicon-32x32.png"
-  #favicon_16 = "/img/favicon-16x16.png"
+  #favicon_32 = "planet-reborn-hugo/images/favicon-32x32.png"
+  #favicon_16 = "planet-reborn-hugo/images/favicon-16x16.png"
 
   since = 2022
 
@@ -46,8 +46,8 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "planet-reborn-hugo/posts/"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "about/"
+  url = "planet-reborn-hugo/about/"
