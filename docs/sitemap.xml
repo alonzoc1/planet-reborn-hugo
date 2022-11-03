@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://alonzoc1.github.io/planet-reborn-hugo/authors/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://alonzoc1.github.io/planet-reborn-hugo/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://alonzoc1.github.io/planet-reborn-hugo/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://alonzoc1.github.io/planet-reborn-hugo/series/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://alonzoc1.github.io/planet-reborn-hugo/tags/</loc>
   </url>
 </urlset>
