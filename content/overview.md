@@ -3,14 +3,16 @@ title = "About"
 description = "Defacto Matter, bringing you spectacular games since 2022"
 date = "2022-11-02"
 aliases = ["game-overview"]
-author = "Alonzo"
+author = "Alonzo, Ethan"
 +++
 
 # Game Overview
 ## What is *Planet Reborn* all about?
-Blah blah
+Planet Reborn is a third-person action roguelike game, where the player must overcome overwhelming odds stacked against them.
+You will have to scavenge items that will aid your escape from the planet.
 
 ## Instructions
 1. Download [the executable here for Windows,](https://example.com/) [or this executable for Mac](https://example.com/)
 2. Run the executable
-3. ...
+3. Have fun!
+4. ...
