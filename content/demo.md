@@ -6,4 +6,11 @@ aliases = ["demo", "game-demo"]
 author = "Alonzo"
 +++
 
-Add code references and links to Mac/Windows builds here
+# Demo Resources
+
+## Downloads
+ - [Windows](https://example.com/)
+ - [Mac](https://example.com/)
+
+## Code
+Our codebase is available for viewing on [GitHub](https://github.com/alonzoc1/planet-reborn)!
