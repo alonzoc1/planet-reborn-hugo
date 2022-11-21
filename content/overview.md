@@ -14,6 +14,7 @@ You will have to scavenge items that will aid your escape from the planet, gain 
 Find out more about *Planet Reborn* by reading our [Game Design Document here!](https://example.com/)
 
 ## Instructions
-1. Download [the executable here for Windows,](https://example.com/) or [this executable for Mac](https://example.com/)
-2. Run the executable
-3. Have fun!
+1. Download [the zip here for Windows,](https://github.com/alonzoc1/planet-reborn/blob/main/Releases/Windows/WindowsDemoRelease.zip?raw=true) or [or here for Mac](https://github.com/alonzoc1/planet-reborn/blob/main/Releases/Mac/MacDemoRelease.app.zip?raw=true)
+2. Extract the game
+3. Run the executable
+4. Have fun!
