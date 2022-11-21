@@ -14,3 +14,4 @@ author = "Alonzo"
 
 ## Code
 Our codebase is available for viewing on [GitHub](https://github.com/alonzoc1/planet-reborn)!
+We have over ***1200*** lines of code (and counting) written as a part of Planet Reborn
